@@ -1,0 +1,12 @@
+{% load staticfiles %}
+
+{% block  news %}
+	<div class="comtainer">
+	
+		<h1>{{ news.title }}</h1>
+		<span>{{ news.date }}</span>
+		<hr>
+		<h4>{{ news.descriptions }}</h4>
+	
+	</div>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'mainPage/main.html' %}
+{% load staticfiles %}
+
+{% block  news %}
+	<div class="comtainer">
+		{% for news in news %}
+			<h1><a href="/news/{{ news.id }}">{{ news.title }}</a></h1>
+			<span>{{ news.date }}</span>
+			<hr>
+			<h4>{{ news.get_short_text }}...</h4>
+		{% endfor %}
+	</div>
+{% endblock %}

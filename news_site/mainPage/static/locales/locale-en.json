@@ -1,0 +1,85 @@
+{
+	"telegram-link": "Join us today",
+	"fs": {
+		"heading1": "If you already know what Bitcoin is and heard about other cryptocurrencies, you can go straight to the presentation of our team. If you do not know what Bitcoin is, take a moment and see why Bitcoin (or another cryptocurrency) will dominate the world of finance in the coming years.",
+		"text1": "We are an international team of analysts and traders in the crypto market having significant experience as well as very robust results in this booming market."
+	},
+	"ss": {
+		"heading1": "We will help you get:",
+		"text1": "a stable annual return on investment and a financial profit on the crypto-currency markets",
+		"text2" : "the latest information on the crypto market",
+		"text3": "an actual increase of your funds and therefore of your capital",
+		"text4": "all you asked for to follow our recommendations on signals and points of entry and exit (buy and profit from income)",
+		"text5": "We cooperate with two major international currency exchange websites (Bittrex, Poloniex).",
+		"text6": "Reminder: It is possible to get as many as BTC 1000 out of just BTC 1– with yields of 2 to 3% per calendar day – within a year!",
+		"heading2": "What will you get from the team thanks to Crypto Agent Bot?",
+		"text7": "We will teach you how to master the crypto-currency market without worrying that you are not experienced in this field.",
+		"text8": "We will take care of all technical and analytical aspects, since we work professionally and are goal-oriented, as you will soon find out"
+	},
+	"ts": {
+		"text1": "We are not an investment company or group – we provide high quality services in the crypto-currency market and we are going to participate in this market as long as it exists.",
+		"text2": "You will first invest in yourself, because we do not take your money to manage it!",
+		"text3": "You will have full control over the management of your own account and the growth of your portfolio.",
+		"text4": "If you want to benefit from our unique service, you need to choose one of the following packages! Service Packages",
+		"text5": "In connection with the dynamic growth of the value of the Bitcoin system, the above prices have fallen recently!"
+ 	},
+	"frs": {
+		"text1": "We see ourselves as pioneers in the crypto market; we want more people to join the Bitcoin, Altcoins & Blockchain technology.",
+		"text2": "As a result, we have considered an opportunity to reward members for their recommendations, in addition to our commercial and analytical department (which is already providing excellent results).",
+		"text3": "This is why we have set up a very attractive compensation plan and a career bonus:"
+	},
+	"fvs": {
+		"heading1": "Experience",
+		"text1": "We have more than 14 years of experience in the analysis and trading on the stock exchange market, and we have completely switched to the crypto market 2 years ago.",
+		"text2": "The reason of this switch is NOT the money but our fascination by the Blockchain technology and our desire to share the vision of creating a better world with it.",
+		"text3": "Money appeared accidentally, and serious money.",
+		"heading2": "Why do we work with Telegram Bot?",
+		"text4": "Today, the messenger services like WhatsApp and Telegram have already been used on a daily basis in everybody’s life. This tendency will increase in the future.",
+		"text5": "Robots, which are already very mature, and artificial intelligence are used in Telegram.",
+		"text6": "In the past, we have learned that success also has its drawbacks. We are an elite group that values the inviolability of privacy and family life. We know that our activities are inconvenient for some people, especially for self-proclaimed traders who sell useless signals and courses. If you join our group, you will understand why.",
+		"text7": "You have to understand that we are NOT marketing specialists and do not want to attract attention!",
+		"text8": "В последние месяцы, прежде чем мы завоевали (международный) рынок, мы тестировали систему Crypto Agent Bot с тестовой группой русскоязычных пользователей.",
+		"text9": "In recent months, before we won the (international) market, we tested the Crypto Agent Bot system with a test group of Russian-speaking users.",
+		"text10": "Still no system has received such a profit!",
+		"heading3": "How to join Crypto Agent Bot?",
+		"text11": "Install the Telegram application on your smartphone (you can also use it on your computer)",
+		"text12": "Join the group and press / start",
+		"text13": "When you are already in a group, click 'Join a group or share a contact' and you will see the following:",
+		"text14": "Click 'Buy subscription', select the package and send the amount in the bitcoins to this purse.",
+		"text15": "You will receive a message in the Telegram app when the amount you send in bitcoins is received.",
+		"text16": "Click 'Finance', then 'Pay for package'.",
+		"text17" : "Congratulations! You are already a member of the group and will receive alerts"
+	},
+	"sxs": {
+		"text1": "In addition, for your convenience, we provide BitPoly, which is an automatic machine for performing your transactions. You do not have to use it.",
+		"text2": "Remember! All transactions can be carried out manually on your account, but you can also use BitPoly. It's easy.",
+		"heading1": "How to install BitPoly?",
+		"text3": "In the Telegram application, click the search button and look for the BitPolyBot contact: https://t.me/BitPolyBot",
+		"text4": "Attention! The application is only available to members of our group.",
+		"text5": "Join the group and press / start",
+		"text6": "When you are already a member of the group, click on 'Send my contact'",
+		"text7": "At the bottom click 'Settings'",
+		"text8": "Press Bittrex or Poloniex, depending on which exchanger you are using (you can use both)",
+		"text9": "Enter the API key and secret key",
+		"heading2": "How to get the API key on Bittrex?",
+		"text10": "Log in to your Bittrex account.",
+		"text11": "Click 'Settings' ",
+		"text12": "Then click 'API keys'",
+		"text13": "And 'Add a new key'",
+		"text14": "Enable the parameters 'READ INFO', 'TRADE LIMIT', 'TRADE MARKET'",
+		"text15": "ATTENTION! The parameter 'WITHDRAWAL' must be off - to provide an additional level of security for your funds",
+		"text16": "Enter the two-factor authentication code (requires 2-step verification)",
+		"text17": "To complete the process, click Update Keys",
+		"text18": "Copy and paste 2 codes, that is, the key and the secret key in BitPoly"
+	},
+	"svs": {
+		"text1": "Here are some examples of messages and buying signals that you get directly from the Telegram application",
+		"text2": "24 hours after",
+		"text3": "The goal was achieved, confirmation of profit + buy signal",
+		"text4": "The sales order on my Bittrex account from BitBay, sent directly to Telegram",
+		"text5": "After 48 hours the goal was achieved",
+		"text6": "More than 10 signals this morning (September 10, 2017) !!",
+		"text7": "Trade becomes a child's play",
+		"text8": "Update - signals from 5 to 9 November 2017."
+	}
+}
